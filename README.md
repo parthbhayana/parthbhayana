@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [BillFold](https://github.com/parthbhayana/BillFold.git)
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/parthbhayana?tab=repositories](https://github.com/parthbhayana?tab=repositories)
 
